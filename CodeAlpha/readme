@@ -40,7 +40,7 @@ Technologies: Python, Pandas, Matplotlib, Seaborn
 
 Key Skills: EDA, Feature Engineering, Visual Storytelling, Statistical Plotting.
 
-🔗 View Task 3 Folder / Code (Update this link to your folder)
+🔗 View Task 3 Folder / Code (Data visualization)
 
 🧠 Task 4: Sentiment Analysis (NLP)
 
@@ -52,7 +52,7 @@ Technologies: Python, NLTK (VADER), Pandas, Matplotlib
 
 Key Skills: Natural Language Processing (NLP), Lexical Analysis, Text Classification.
 
-🔗 View Task 4 Folder / Code (Update this link to your folder)
+🔗 View Task 4 Folder / Code (Sentiment Analysis)
 
 🛠️ Installation & Setup
 
@@ -60,12 +60,12 @@ To run any of the projects in this repository locally, please ensure you have Py
 
 Clone this repository:
 
-git clone https://github.com//CodeAlpha_Data_Analytics_Internship.git
+git clone hhttps://github.com/vanshchaudhary324/CodeAlpha-Internwork.git
 
 
 Navigate to the project directory:
 
-cd CodeAlpha_Data_Analytics_Internship
+cd CodeAlpha-Internwork
 
 
 Install the required dependencies:
