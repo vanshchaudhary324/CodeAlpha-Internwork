@@ -28,7 +28,7 @@ Technologies: Python, Requests, BeautifulSoup (bs4), Pandas
 
 Key Skills: Data Extraction, HTML Parsing, Data Cleaning.
 
-🔗 View Task 1 Folder / Code (Update this link to your folder)
+🔗 View Task 1 Folder / Code (https://github.com/vanshchaudhary324/CodeAlpha-Internwork/tree/main/Web%20scraping)
 
 📊 Task 3: Data Visualization & Exploratory Analysis
 
@@ -65,7 +65,7 @@ git clone https://github.com//CodeAlpha_Data_Analytics_Internship.git
 
 Navigate to the project directory:
 
-cd CodeAlpha_Data_Analytics_Internship
+cd CodeAlpha-Internwork
 
 
 Install the required dependencies:
